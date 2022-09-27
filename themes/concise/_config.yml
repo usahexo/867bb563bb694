@@ -1,7 +1,10 @@
 menu:
   Archives: /archives
 #footer_links/links
-footer_links:
+links:
+- name: 카지노사이트
+  link: https://choegocasino.com/
+
 #- name: Kieran
 #  link: http://go.kieran.top/
 #- name: Name
